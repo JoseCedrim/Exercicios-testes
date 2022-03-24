@@ -24,17 +24,17 @@ console.log(myFunction(2,2))
 
 //EXERCICIO 5 Crie uma função que recebe uma lista de números por parâmetro e retorne a SOMA de todos os números que são divisíveis por 3.
 
-// let numeros = [12, 15, 16, 18, 23, 40]
-//  let impar = numeros.filter(function(item){
-//      return (item %3==0)
-//  })
-//  console.log(impar)
+let num = [12, 15, 16, 18, 23, 40]
+ let impar = numeros.filter(function(item){
+     return (item %3==0)
+ })
+ console.log(impar)
 
-//  let numeros1 = [12, 15, 18]
-//  let soma = numeros1.reduce(function(pilha, numero1){
-//          return pilha + numero1
-//  }) 
-//   console.log(soma)
+ let num1 = [12, 15, 18]
+ let somar1 = num1.reduce(function(pilha, num1){
+         return pilha + num1
+ }) 
+  console.log(soma)
  
 //arrow function
 

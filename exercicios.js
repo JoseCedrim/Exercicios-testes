@@ -1,4 +1,4 @@
-//EXERCICIO 1 Crie uma função que recebe por parâmetro uma lista de números e retorne a soma de todos os números pares dessa lista.
+     //EXERCICIO 1 Crie uma função que recebe por parâmetro uma lista de números e retorne a soma de todos os números pares dessa lista.
 
 // let numeros = [12, 15, 16, 18, 23, 40]
 // let pares = numeros.filter(function(item){
@@ -22,7 +22,7 @@
 // console.log(myFunction(2,2))
 
 
-//EXERCICIO 5 Crie uma função que recebe uma lista de números por parâmetro e retorne a SOMA de todos os números que são divisíveis por 3.
+     //EXERCICIO 5 Crie uma função que recebe uma lista de números por parâmetro e retorne a SOMA de todos os números que são divisíveis por 3.
 
 // let num = [12, 15, 16, 18, 23, 40]
 //  let impar = numeros.filter(function(item){
@@ -41,7 +41,7 @@
 // let somar = (a, b) => a + b
 // console.log(somar(5, 5)) 
 
-//exercicio 3 Crie uma função que recebe uma lista de números e retorne somente os números positivos dessa lista. Se não tiver nenhum número positivo no array, retorne a string ‘Não há numeros positivos no array
+     //exercicio 3 Crie uma função que recebe uma lista de números e retorne somente os números positivos dessa lista. Se não tiver nenhum número positivo no array, retorne a string ‘Não há numeros positivos no array
 
 let numeroPositivos = [1, -3, 5, 6, -8, -9, 2, 4, -7, 3]
 function pickPositivos(array) {
